@@ -1,0 +1,6 @@
+mean_reward=-4.025672
+std_reward=1.605350
+timesteps=1000000
+algo=PPO
+n_envs=8
+vec_normalize=True

@@ -1,0 +1,3 @@
+mean_reward=-31.749179
+std_reward=1.930090
+timesteps=120000
